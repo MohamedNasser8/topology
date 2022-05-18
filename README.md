@@ -1,2 +1,2 @@
 # topology
-![The San Juan Mountains are beautiful!]("screen/screen1")
+![The San Juan Mountains are beautiful!]("/screen/screen1.png")
