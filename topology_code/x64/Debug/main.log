@@ -1,0 +1,14 @@
+﻿  component.cpp
+  DeviceClass.cpp
+  jsoncpp.cpp
+  main.cpp
+  res.cpp
+  test.cpp
+  topology.cpp
+  trans.cpp
+  Generating Code...
+C:\Users\nasse\OneDrive\Desktop\Topology-Api\Topology_Api\topology_code\Api.h(232): warning C4715: 'Api::queryDevicesWithNetlistNode': not all control paths return a value
+C:\Users\nasse\OneDrive\Desktop\Topology-Api\Topology_Api\topology_code\Api.h(72): warning C4715: 'Api::ReadJSON': not all control paths return a value
+C:\Users\nasse\OneDrive\Desktop\Topology-Api\Topology_Api\topology_code\Api.h(72): warning C4715: 'Api::ReadJSON': not all control paths return a value
+C:\Users\nasse\OneDrive\Desktop\Topology-Api\Topology_Api\topology_code\Api.h(232): warning C4715: 'Api::queryDevicesWithNetlistNode': not all control paths return a value
+  main.vcxproj -> C:\Users\nasse\OneDrive\Desktop\Topology-Api\Topology_Api\topology_code\x64\Debug\main.exe
